@@ -60,7 +60,7 @@
     <rect x="570" y="48" width="200" height="200" fill="#222736"/>
     
     <!-- INSÉREZ VOTRE IMAGE ICI (Le bloc placeholder a été supprimé) -->
-    <image id="avatar" x="570" y="48" width="200" height="200" preserveAspectRatio="xMidYMid slice" href="./Images/avatar.jpg" /> 
+    <image id="avatar" x="570" y="48" width="200" height="200" preserveAspectRatio="xMidYMid slice" href="https://i.pinimg.com/736x/9e/53/a6/9e53a68d3c85451ef30d9121102b0a08.jpg" /> 
   </g>
   <rect x="570" y="48" width="200" height="200" fill="none" stroke="#343b50"/>
   <text x="570" y="270" class="d">avatar.png</text>
